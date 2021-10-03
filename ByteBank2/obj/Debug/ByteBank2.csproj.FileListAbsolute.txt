@@ -1,0 +1,7 @@
+C:\Users\Thales\source\repos\ByteBank2\ByteBank2\bin\Debug\ByteBank2.exe.config
+C:\Users\Thales\source\repos\ByteBank2\ByteBank2\bin\Debug\ByteBank2.exe
+C:\Users\Thales\source\repos\ByteBank2\ByteBank2\bin\Debug\ByteBank2.pdb
+C:\Users\Thales\source\repos\ByteBank2\ByteBank2\obj\Debug\ByteBank2.csprojAssemblyReference.cache
+C:\Users\Thales\source\repos\ByteBank2\ByteBank2\obj\Debug\ByteBank2.csproj.CoreCompileInputs.cache
+C:\Users\Thales\source\repos\ByteBank2\ByteBank2\obj\Debug\ByteBank2.exe
+C:\Users\Thales\source\repos\ByteBank2\ByteBank2\obj\Debug\ByteBank2.pdb
