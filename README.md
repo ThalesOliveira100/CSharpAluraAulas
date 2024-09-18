@@ -51,5 +51,5 @@ Sinta-se à vontade para explorar o código, sugerir melhorias ou discutir sobre
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/ThalesOliveira100)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devthalesoliveira/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:toliveiradev@outlook.com)
