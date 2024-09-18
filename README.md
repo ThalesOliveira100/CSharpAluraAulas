@@ -46,7 +46,6 @@ Durante o desenvolvimento deste projeto, foram abordados conceitos e práticas i
 - **Streams** para importação/exportação de dados.
 - Trabalho com **listas**, **comparadores** e **métodos de extensão**.
 
----
 
 Sinta-se à vontade para explorar o código, sugerir melhorias ou discutir sobre sistemas bancários com C#!
 
